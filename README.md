@@ -3,8 +3,8 @@ Simple python program that returns a list of repositories for a given github use
 
 USAGE:
 
-`python3 user`
+`python3 list_repos.py user`
 
 EXAMPLE:
 
-`python3 drosenwinkel`
+`python3 list_repos.py drosenwinkel`
